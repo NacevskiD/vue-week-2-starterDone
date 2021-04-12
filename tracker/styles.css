@@ -2,3 +2,17 @@
     max-height: 250px;
     overflow: scroll;
 }
+
+.Sketching {
+    color: gray;
+    font-style: italic;
+}
+
+.Drawing{
+    color: black;
+    font-weight: bold;
+}
+
+.Painting{
+    color: green;
+}
